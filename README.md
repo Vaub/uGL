@@ -26,3 +26,5 @@ Created by
 ### Tested under
   - Windows 8.1 x64, Windows 8.0 x64
   - Intel HD 2xxx (with OpenGL 3.3-compatible drivers), Intel HD 3xxx, Intel HD 4xxx, NVIDIA GTX 9xx, NVIDIA GTX 7xx, AMD Radeon HD 7xxx, AMD Radeon R9 2xx
+
+## Architecture (namespace sorted using VS filters) ![architecture](https://raw.githubusercontent.com/Vaub/uGL/master/FinalArchitecture.png)
