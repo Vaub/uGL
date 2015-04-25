@@ -41,3 +41,6 @@ Project/uGL/uGL/GeneratedFiles/*
 *.exe
 *.out
 *.app
+
+# Libraries we want !
+!Project/uGL/freeimage/*
