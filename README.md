@@ -7,7 +7,7 @@ Created by
  - Alexandre Rivest
  - Vincent Aubé
 
-## Technologies needed
+## Technologies
   - OpenGL 3.30
   - GLSL 3.30.6 (version #330 core)
   - Qt 5.4 x64
