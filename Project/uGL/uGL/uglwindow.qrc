@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="uGLWindow">
+    <file>Images/eye.png</file>
+    <file>Images/eye.png</file>
+    <file>Images/CameraDepth.png</file>
+    <file>Images/CameraDrag.png</file>
+    <file>Images/CameraRoll.png</file>
+    <file>Images/CameraRotate.png</file>
+    <file>Images/ExportAsPicture.png</file>
+    <file>Images/FullScreen.png</file>
+    <file>Images/ModelImport.png</file>
+    <file>Images/NormalScreen.png</file>
+  </qresource>
+</RCC>

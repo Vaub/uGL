@@ -1,3 +1,18 @@
+*.sdf
+*.opensdf
+*.tlog
+
+*.dgml
+
+x64/
+Win32/
+Debug/
+Release/
+TestResults/
+ipch/
+GeneratedFiles/
+Project/uGL/uGL/GeneratedFiles/*
+
 # Compiled Object files
 *.slo
 *.lo
