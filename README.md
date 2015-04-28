@@ -16,7 +16,7 @@ Created by
   - Compiled under MSVC++ 12.0 x64
   - ISO-compatible C++11
 
-### What do you need to compile
+### How to compile
   - Visual Studio 2013
   - Qt 5.4 libraries in your PATH (Windows)
   - MSVC++ Redist Packages x64 for VS2013 (msvcp12.dll)
